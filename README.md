@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AdityaS-5/Leetcode/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AdityaS-5/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
