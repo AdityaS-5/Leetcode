@@ -18,6 +18,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/AdityaS-5/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -47,4 +49,20 @@
 | ------- |
 | [0015-3sum](https://github.com/AdityaS-5/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaS-5/Leetcode/tree/master/0018-4sum) |
+## String
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+## Greedy
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+## Matrix
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
