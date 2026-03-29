@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AdityaS-5/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Greedy
 |  |
 | ------- |
