@@ -15,6 +15,7 @@
 | [0015-3sum](https://github.com/AdityaS-5/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaS-5/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AdityaS-5/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdityaS-5/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
@@ -41,6 +42,7 @@
 | [0015-3sum](https://github.com/AdityaS-5/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaS-5/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/AdityaS-5/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -51,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/AdityaS-5/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaS-5/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
