@@ -10,30 +10,18 @@ class Solution {
         int[][] ans = new int[n][2];
         int ind = 0;
 
-        int i = 0;
-
-        // Same logic as your working code
-        while (i < n) {
-
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-            int j = i + 1;
-
-            // merge overlaps
-            while (j < n && intervals[j][0] <= end) {
-                end = Math.max(end, intervals[j][1]);
-                j++;
+        for(int i =0;i<n;i++){
+            if(i==0 || intervals[i][0]>ans[ind-1][1]){
+                ans[ind][0] = intervals[i][0];
+                ans[ind][1] = intervals[i][1];
+                ind++;
+                
             }
-
-            ans[ind][0] = start;
-            ans[ind][1] = end;
-            ind++;
-
-            i = j; // move to next block
+            else{
+                ans[ind-1][1] = Math.max(ans[ind-1][1],intervals[i][1]);
+                
+            }
         }
-
-        // return only filled part
-        return Arrays.copyOf(ans, ind);
+        return Arrays.copyOf(ans,ind);
     }
 }
