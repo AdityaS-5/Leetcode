@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AdityaS-5/Leetcode/tree/master/0704-binary-search) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0056-merge-intervals](https://github.com/AdityaS-5/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
+| [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +108,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AdityaS-5/Leetcode/tree/master/0493-reverse-pairs) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
