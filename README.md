@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/AdityaS-5/Leetcode/tree/master/0704-binary-search) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaS-5/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String Matching
 |  |
 | ------- |
