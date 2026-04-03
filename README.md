@@ -29,6 +29,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/AdityaS-5/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0152-maximum-product-subarray](https://github.com/AdityaS-5/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/AdityaS-5/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/AdityaS-5/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
@@ -97,6 +100,7 @@
 | [0035-search-insert-position](https://github.com/AdityaS-5/Leetcode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/AdityaS-5/Leetcode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/AdityaS-5/Leetcode/tree/master/0704-binary-search) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/AdityaS-5/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
