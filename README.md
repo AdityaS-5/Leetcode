@@ -34,6 +34,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AdityaS-5/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaS-5/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaS-5/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/AdityaS-5/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -117,6 +118,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AdityaS-5/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaS-5/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaS-5/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/AdityaS-5/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AdityaS-5/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
