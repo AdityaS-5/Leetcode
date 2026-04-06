@@ -30,6 +30,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/AdityaS-5/Leetcode/tree/master/0704-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/AdityaS-5/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/AdityaS-5/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AdityaS-5/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AdityaS-5/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaS-5/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0874-walking-robot-simulation](https://github.com/AdityaS-5/Leetcode/tree/master/0874-walking-robot-simulation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/AdityaS-5/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/AdityaS-5/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AdityaS-5/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
