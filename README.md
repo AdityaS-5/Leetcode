@@ -37,6 +37,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdityaS-5/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AdityaS-5/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AdityaS-5/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AdityaS-5/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/AdityaS-5/Leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AdityaS-5/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -93,6 +94,7 @@
 | [0657-robot-return-to-origin](https://github.com/AdityaS-5/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AdityaS-5/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AdityaS-5/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AdityaS-5/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AdityaS-5/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AdityaS-5/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AdityaS-5/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
