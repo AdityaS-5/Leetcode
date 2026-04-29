@@ -64,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaS-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/AdityaS-5/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AdityaS-5/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/AdityaS-5/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -89,12 +90,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaS-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AdityaS-5/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdityaS-5/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/AdityaS-5/Leetcode/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AdityaS-5/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0657-robot-return-to-origin](https://github.com/AdityaS-5/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AdityaS-5/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AdityaS-5/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
